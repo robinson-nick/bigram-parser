@@ -1,0 +1,14 @@
+{
+  "name": "assess",
+  "version": "0.0.0",
+  "description": "GoHealth File I/O Bigram to Histogram Parser",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./src/test/"
+  },
+  "author": "Nick Robinson",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
